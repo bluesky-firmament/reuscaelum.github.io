@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reuscaelum/reuscaelum.github.io/static/css/main.623251bc.chunk.css",
+    "main.js": "/reuscaelum/reuscaelum.github.io/static/js/main.2ab730f1.chunk.js",
+    "main.js.map": "/reuscaelum/reuscaelum.github.io/static/js/main.2ab730f1.chunk.js.map",
+    "runtime-main.js": "/reuscaelum/reuscaelum.github.io/static/js/runtime-main.8047d9a2.js",
+    "runtime-main.js.map": "/reuscaelum/reuscaelum.github.io/static/js/runtime-main.8047d9a2.js.map",
+    "static/js/2.5bf46a35.chunk.js": "/reuscaelum/reuscaelum.github.io/static/js/2.5bf46a35.chunk.js",
+    "static/js/2.5bf46a35.chunk.js.map": "/reuscaelum/reuscaelum.github.io/static/js/2.5bf46a35.chunk.js.map",
+    "index.html": "/reuscaelum/reuscaelum.github.io/index.html",
+    "static/css/main.623251bc.chunk.css.map": "/reuscaelum/reuscaelum.github.io/static/css/main.623251bc.chunk.css.map",
+    "static/js/2.5bf46a35.chunk.js.LICENSE.txt": "/reuscaelum/reuscaelum.github.io/static/js/2.5bf46a35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8047d9a2.js",
+    "static/js/2.5bf46a35.chunk.js",
+    "static/css/main.623251bc.chunk.css",
+    "static/js/main.2ab730f1.chunk.js"
+  ]
+}
